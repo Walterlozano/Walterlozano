@@ -29,7 +29,6 @@
 <br clear="both"/>
 
 ---
-<img align="right" width="300" alt="Shimarin" src="https://i.imgur.com/aNBi8Jf.png"/>
 
 *I am **Walter**, an advanced student in **Technology in Software Development** from **Universidad del Valle**
 and a **Data Engineering graduate** from **Florida Global University**, based in **Colombia 🇨🇴**.*
